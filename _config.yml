@@ -6,10 +6,10 @@ favicon: images/favicon.ico
 version: 2
 
 # Personal info
-name: Brett Harris
-title: Senior Network System Administrator
-email: brett.h@email.co.uk
-website: www.github.com/sproogen/resume-theme
+name: Aarón Cruz
+title: Computer Engineering
+email: aaron.cruzgallegos@gmail.com
+website: https://aaroncruz404.github.io/resume/
 
 # Dark Mode (true/false/never)
 darkmode: false
@@ -48,17 +48,15 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
-
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  Computer Engineer with knowledge in C, C++, C# and Python programming languages, as well as familiarity with TypeScript and the React library. Knowledgeable in MySQL and PostgreSQL databases. Proactive approach to learning new technologies and constantly improving both soft and technical skills.
 
 content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Super awesome project
-        link: github.com/sproogen
+        title: Website for transcribing audio to text
+        link: https://github.com/aaroncruz404/transcripciones-web
         # link_text: Project Website
         additional_links:
           - title:  sproogen/modern-resume-theme
@@ -68,49 +66,45 @@ content:
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+          This is an academic project to obtain my graduate certificate.
         description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+          The website transcribes audio to text and uses a technology stack that includes Astro, Flask, Python, React, Socket.io, Supabase, TypeScript, and WhisperIA. Working on this project has allowed me to develop skills in these technologies, and I’m proud to include it in my portfolio.
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: The Boring Company
-        link: boringcompany.com
+        title: Social Service
+        link: https://www.cucei.udg.mx/
         # link_text: boringcompany.com
-        sub_title: Senior Network System Administrator
-        caption: November 2017 - Present
+        sub_title: Sysadmin Intern
+        caption: September 2023 - February 2024
         quote: >
           Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
-            Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
+            I have taken on responsibilities such as installing operating systems, configuring networks, managing user accounts, and implementing services like Apache, FTP, SSH, and MariaDB. Additionally, I have assisted in deploying academic websites. This project has allowed me to develop valuable skills in using Linux.
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Harvard University
-        caption: 2010 - 2013
-        sub_title: BSc Computer Science
+        title: Universidad de Guadalajara
+        caption: 2020 - 2024
+        sub_title: Computer Engineering
         quote: >
-          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+          El Centro Universitario de Ciencias Exactas e Ingenierías, CUCEI, es uno de los centros temáticos que forman la Red Universitaria de Jalisco atendiendo a la fecha a más de 15,000 alumnos mediante 18 licenciaturas y 20 posgrados.
         description: | # this will include new lines to allow paragraphs
-          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+          During my time at CUCEI I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
 
-          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
 
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
       Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
+      - Fronton
       - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+      - Football
 
-      Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
 
 # Footer
 footer_show_references: true
