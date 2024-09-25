@@ -15,17 +15,17 @@ website: https://aaroncruz404.github.io/resume/
 darkmode: false
 
 # Social links
-twitter_username: facespics
+#twitter_username: facespics
 github_username:  aaroncruz404
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
-instagram_username: jameswgrant
+#instagram_username: jameswgrant
 linkedin_username: jameswgrant
 # xing_username: jekyll
 # pinterest_username: jekyll
-youtube_username: globalmtb
+#youtube_username: globalmtb
 # googleplus_username: +jekyll
 # orcid_username: 0000-0000-0000-0000
 
@@ -80,7 +80,7 @@ content:
         sub_title: Sysadmin Intern
         caption: September 2023 - February 2024
         quote: >
-          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+          I chose the servers area for my social service because I enjoy working with tangible technology. Unlike programming, where you mainly see results on a screen
         description: | # this will include new lines to allow paragraphs
             I have taken on responsibilities such as installing operating systems, configuring networks, managing user accounts, and implementing services like Apache, FTP, SSH, and MariaDB. Additionally, I have assisted in deploying academic websites. This project has allowed me to develop valuable skills in using Linux.
 
@@ -92,7 +92,7 @@ content:
         caption: 2020 - 2024
         sub_title: Computer Engineering
         quote: >
-          El Centro Universitario de Ciencias Exactas e Ingenierías, CUCEI, es uno de los centros temáticos que forman la Red Universitaria de Jalisco atendiendo a la fecha a más de 15,000 alumnos mediante 18 licenciaturas y 20 posgrados.
+          The University Center of Exact Sciences and Engineering (CUCEI) is one of the thematic centers that form the University Network of Jalisco, currently serving more than 15,000 students through 18 undergraduate programs and 20 postgraduate programs.
         description: | # this will include new lines to allow paragraphs
           During my time at CUCEI I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
 
@@ -104,6 +104,7 @@ content:
       - Fronton
       - Gaming
       - Football
+      - Martial Arts
 
 
 # Footer
